@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蘇芳の明察",
+  "base_artist": "IDONO KAWAZU",
+  "createdAt": "2026-03-04T05:02:09.538427Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蘇芳の明察",
+      "artist": "IDONO KAWAZU",
+      "has_synced": false,
+      "path": "select/pl_01_蘇芳の明察_IDONO_KAWAZU.txt"
+    }
+  ]
+}
